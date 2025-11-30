@@ -1,5 +1,5 @@
 # Stereo 3D Multi-Object Tracking System  
-This project repreents a modular stereo-vision system that detects multiple objects using a **stereo camera setup** and estimates their **3D position in real time**, even during **temporary occlusions**.  
+This project represents a modular stereo-vision system that detects multiple objects using a **stereo camera setup** and estimates their **3D position in real time**, even during **temporary occlusions**.  
 The system demonstrates the core components used in **autonomous driving** and **robot perception**, including:
 
 - **Stereo vision**
