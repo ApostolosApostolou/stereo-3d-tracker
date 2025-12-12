@@ -7,7 +7,17 @@ The system demonstrates the core components used in **autonomous driving** and *
 - **YOLO + BoT-SORT multi-object tracking with Re-Identification**
 - **3D motion estimation with a Kalman filter**
 
-It processes synchronized stereo frames, triangulates accurate 3D positions for each detected object, predicts their motion through occlusions, and visualizes the results both in the camera view and in a bird’s-eye view (BEV).  
+It processes synchronized stereo frames, triangulates accurate 3D positions for each detected object, predicts their motion through occlusions, and visualizes the results both in the camera view and in a bird’s-eye view (BEV).
+
+---
+
+## System Architecture
+
+The diagram below illustrates the full processing pipeline of the stereo 3D multi-object tracking system, from stereo image acquisition to 3D state estimation and visualization.
+
+<p align="center">
+  <img src="architecture.png" alt="Stereo 3D Multi-Object Tracking System Architecture" width="90%">
+</p>
 
 ---
 
