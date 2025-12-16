@@ -1,0 +1,10 @@
+# Python visualization scripts
+visuals1.py
+visuals2.py
+
+# Generated images
+detections.png
+disparities.png
+
+# Config overrides / local params
+visual_botsort_params.yaml
